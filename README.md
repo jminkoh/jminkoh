@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jminkoh
 - 👀 I’m interested in football
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on hans et aboubacar
-- 📫 How to reach me ...
-- 😄 Pronouns: Johann
+- 💞️ I’m looking to collaborate on django
+- 📫 How to reach me angominkohyirimjohann@gmail.com / +241 076529538
+- 😄 Pronouns: Babylone
 - ⚡ Fun fact: ...
 
 <!---
