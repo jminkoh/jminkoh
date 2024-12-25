@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jminkoh
-- 👀 I’m interested in football
+- 👀 I’m interested in football and development web & mobile
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on django
 - 📫 How to reach me angominkohyirimjohann@gmail.com / +241 076529538
